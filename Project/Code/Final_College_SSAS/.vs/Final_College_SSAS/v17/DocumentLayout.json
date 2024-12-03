@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Fact Detail.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:Fact Detail.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:Dim Cohort 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim State.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:Dim State.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:College_Completion_DW 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:College_Completion_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9803C529-AAEE-4B4A-A999-C24FF9DAEAE1}|Final_College_SSAS.dwproj|solutionrelative:Dim Carnegie 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:College Completion DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:College Completion DW 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:College Completion DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dim Carnegie.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dim Cohort.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim State.dim [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim State.dim",
+              "RelativeDocumentMoniker": "Dim State.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim State.dim [Design]",
+              "RelativeToolTip": "Dim State.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:57:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Carnegie 1.dim [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie 1.dim",
+              "RelativeDocumentMoniker": "Dim Carnegie 1.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie 1.dim [Design]",
+              "RelativeToolTip": "Dim Carnegie 1.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:57:07.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dim Carnegie.dim",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie.dim",
+              "RelativeDocumentMoniker": "Dim Carnegie.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Carnegie.dim",
+              "RelativeToolTip": "Dim Carnegie.dim",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:28:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "College Completion DW.dsv",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.dsv",
+              "RelativeDocumentMoniker": "College Completion DW.dsv",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.dsv",
+              "RelativeToolTip": "College Completion DW.dsv",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T09:01:52.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "College Completion DW 1.cube",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW 1.cube",
+              "RelativeDocumentMoniker": "College Completion DW 1.cube",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW 1.cube",
+              "RelativeToolTip": "College Completion DW 1.cube",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T08:58:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "College Completion DW.cube",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.cube",
+              "RelativeDocumentMoniker": "College Completion DW.cube",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College Completion DW.cube",
+              "RelativeToolTip": "College Completion DW.cube",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T08:58:42.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dim Cohort.dim",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort.dim",
+              "RelativeDocumentMoniker": "Dim Cohort.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort.dim",
+              "RelativeToolTip": "Dim Cohort.dim",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T08:59:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Cohort 1.dim [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort 1.dim",
+              "RelativeDocumentMoniker": "Dim Cohort 1.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Cohort 1.dim [Design]",
+              "RelativeToolTip": "Dim Cohort 1.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:50:12.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "College_Completion_DW 1.cube [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW 1.cube",
+              "RelativeDocumentMoniker": "College_Completion_DW 1.cube",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW 1.cube [Design]",
+              "RelativeToolTip": "College_Completion_DW 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:49:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Dim Location.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:28:13.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "College_Completion_DW.cube [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW.cube",
+              "RelativeDocumentMoniker": "College_Completion_DW.cube",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\College_Completion_DW.cube [Design]",
+              "RelativeToolTip": "College_Completion_DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T12:27:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fact Detail.dim [Design]",
+              "DocumentMoniker": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Fact Detail.dim",
+              "RelativeDocumentMoniker": "Fact Detail.dim",
+              "ToolTip": "C:\\FinalProject_DataWarehouse\\Final_College_SSAS\\Fact Detail.dim [Design]",
+              "RelativeToolTip": "Fact Detail.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T09:34:41.599Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

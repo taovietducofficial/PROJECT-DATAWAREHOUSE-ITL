@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="TAOVIETDUC.College_Completion_Staging"
+  DTS:DTSID="{309A7856-629A-49FA-821A-2761F490AD69}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=TAOVIETDUC;Initial Catalog=College_Completion_Staging;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Final_College_SISS-{309A7856-629A-49FA-821A-2761F490AD69}TAOVIETDUC.College_Completion_Staging;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

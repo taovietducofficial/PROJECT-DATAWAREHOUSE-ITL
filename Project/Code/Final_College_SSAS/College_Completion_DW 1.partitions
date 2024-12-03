@@ -1,0 +1,125 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="5689018e-58fd-49ae-a040-d865d7ac45d0" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>College_Completion_DW 1</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>Dim Carnegie</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="4a26869b-2b91-43b6-b97a-f9bc73c62cbc">
+          <ID>Dim Carnegie</ID>
+          <Name>Dim Carnegie</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="e9a2c094-271c-462a-a0a4-1164211ca595">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_DimCarnegie</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Dim Cohort</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="30ed1862-3812-4f4b-9ae0-20e9975b1c14">
+          <ID>Dim Cohort</ID>
+          <Name>Dim Cohort</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="38963010-e86e-43f8-bfac-5b619fd26477">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_DimCohort</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Dim Location</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="d499b2f6-ac33-485d-a9df-a68843e755d1">
+          <ID>Dim Location</ID>
+          <Name>Dim Location</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="cba1d376-9b3e-4f47-aa5d-dacc20e021aa">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_DimLocation</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Dim State</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="5b7db793-6e2b-4f81-805d-c32e31dc84c3">
+          <ID>Dim State</ID>
+          <Name>Dim State</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="7d7b3af8-0f23-41f7-a543-eb95fdde63d1">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_DimState</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Detail</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="d899711c-4a41-4d9f-a4ab-3486e10d1ecd">
+          <ID>Fact Detail</ID>
+          <Name>Fact Detail</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="8159d7ca-923f-4157-9644-a2b5dc943c93">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_FactDetail</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Graduation</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="74bdf48e-27b5-4e47-b2e5-60ab59b80011">
+          <ID>Fact Graduation</ID>
+          <Name>Fact Graduation</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="3329795c-6c01-4941-a511-0cee259f2bed">
+            <DataSourceViewID>College Completion DW</DataSourceViewID>
+            <TableID>dbo_FactGraduation</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>
