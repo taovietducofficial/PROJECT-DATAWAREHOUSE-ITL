@@ -109,6 +109,16 @@ cc_institutions_details.to_csv('pre_cc_institutions_details.csv', index=False)
   <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/13.png" width="1000" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/25.png" width="1000" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/26.png" width="1000" />
+</p>
+
+In the data set, we see a basic column. It is a classification by an organization "carnegie classification of institutions of higher education" that classifies universities in the US. At this point, we need a dimension to classify universities to facilitate analysis
+
 In the data set, we see a basic column. It is a classification by an organization "carnegie classification of institutions of higher education" that classifies universities in the US. At this point, we need a dimension to classify universities to facilitate analysis
 ```python
 import pandas as pd
