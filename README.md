@@ -2,6 +2,7 @@
 <p align="justify">
 Only 70% of the complete code has been pushed due to certain ownership rights reasons from me. Please review and respect this. Thank you very much!
 </p>
+
 ## Professional design
 
 Institution Details Report: Detailed analysis of higher education institutions. The analyst wants to track metrics related to geographic location, institution type based on the Carnegie Classification system in the U.S., and student-related measurement parameters.
