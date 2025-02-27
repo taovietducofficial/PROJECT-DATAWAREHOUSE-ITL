@@ -195,4 +195,7 @@ clean_data["cohort"] =clean_data["cohort"].transform(lambda x: cohort_dic[x])
 clean_data.to_csv('pre_institutions_grads.csv', index=False)
 
 ```
-
+# THANK YOU FOR WATCHING!
+<p align="justify">
+Only 85% of the complete code has been pushed due to certain ownership rights reasons from me. Please review and respect this. Thank you very much!
+</p>
