@@ -195,6 +195,56 @@ clean_data["cohort"] =clean_data["cohort"].transform(lambda x: cohort_dic[x])
 clean_data.to_csv('pre_institutions_grads.csv', index=False)
 
 ```
+## Create College_Staging and SSIS project
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/Screenshot%202025-02-27%20191102.png" width="1000" />
+</p>
+
+## Create a data source and destination connection
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/14.jpg" width="1000" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/15.jpg" width="1000" />
+</p>
+
+
+## Conduct Staging
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/17.jpg" width="1000" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/18.jpg" width="1000" />
+</p>
+
+Data Flow Institution Details Staging
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/19.jpg" width="1000" />
+</p>
+
+## Proceed to Load
+
+Create a package named College_Completioon_Loading
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/20.jpg" width="1000" />
+</p>
+
+Includes flow data and truncates
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/21.jpg" width="1000" />
+</p>
+
+Data Flow DimState
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/22.jpg" width="1000" />
+</p>
+
 # THANK YOU FOR WATCHING!
 <p align="justify">
 Only 85% of the complete code has been pushed due to certain ownership rights reasons from me. Please review and respect this. Thank you very much!
