@@ -258,6 +258,84 @@ Data Flow DimState
   <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/22.jpg" width="1000" />
 </p>
 
+## Configure Data Flow FactGraduation
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/28.jpg" width="1000" />
+</p>
+
+## Loading results
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/27.jpg" width="1000" />
+</p>
+
+# DATA ANALYSIS (SSAS)
+
+### Here is the English translation of your queries:
+
+- The proportion of full-time students by region.
+
+- The proportion of students receiving Pell Grants in each region.
+
+- The on-time graduation rate by study duration in each region.
+
+- The retention rate after the first academic year in each region.
+
+- The total number of students and the estimated cost to complete a program per student.
+
+- The number of graduates by race and gender.
+
+- The number of on-time graduates by region.
+
+- The number of students graduating within 150% of the standard program duration, categorized by gender and race per year.
+
+- The number of graduates per year, categorized by institution type and cohort.
+
+- The number of graduates by race and gender, categorized by program size.
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/30.png" width="1000" />
+</p>
+
+# ANALYSIS USING POWER BI
+
+## Report on the geographical location of University facilities
+
+Detailed analysis of the geographical location of University facilities using MapChart. Indicate how many cities and how many Universities there are in that State. Show those school locations on the map
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/31.png" width="1000" />
+</p>
+
+## Report on the percentage of students studying full-time programs at the University
+
+Detailed analysis of the proportion of students studying full-time programs. We see that on average in the US, this rate is quite high, accounting for 71.09%....
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/32.png" width="1000" />
+</p>
+
+
+## Report on the percentage of students receiving Pell grants at the University
+
+Detailed analysis of the percentage of students receiving US Pell grants. We see that on average in the US, the average rate of the entire US is 47.57%.
+
+<p align="center">
+  <img src="https://github.com/taovietducofficial/PROJECT-DATAWAREHOUSE-ITL/blob/master/33.png" width="1000" />
+</p>
+
+# CONCLUDE
+1. Advantages
+
+- Having a solid understanding of fundamental concepts related to data warehouses and OLAP, as well as the essential characteristics of a data warehouse. This knowledge is applied to build a complete data warehouse for data analysis. Additionally, the team has developed a data warehouse model and gained experience with tools such as SSIS, SSAS, and Reporting.
+
+2. Disadvantages
+
+- Due to limited research time, the team has not explored the topic in depth or optimized data extraction. The queries are still relatively simple and lack diversity.
+
+3. Future Development
+
+- Building on the initial research on data warehouses, the team plans to integrate additional tools and identify more complex business requirements for further study.
+
 # THANK YOU FOR WATCHING!
 <p align="justify">
 Only 70% of the complete code has been pushed due to certain ownership rights reasons from me. Please review and respect this. Thank you very much!
